@@ -1,2 +1,2 @@
 # Document-Scanner
-My project is a Document Scanner that utilizes computer vision techniques. It captures and processes document images, automatically cropping and enhancing them to create high-quality scans. Experience the convenience of digitizing your documents with our efficient and user-friendly Document Scanner.
+My project is a Document Scanner that leverages computer vision techniques. It allows users to capture images of documents and automatically enhances and processes them to create high-quality digital scans. Simplify the process of digitizing documents with our efficient and accurate Document Scanner powered by computer vision technology.
